@@ -1,4 +1,6 @@
-# Qiskit Tutorials from [url](qiskit-tutorials) 
+# Qiskit Tutorials 
+
+#### this repository from [url](qiskit-tutorials) 
 
 [![License](https://img.shields.io/github/license/Qiskit/qiskit-tutorials.svg?style=popout-square)](https://opensource.org/licenses/Apache-2.0)
 
